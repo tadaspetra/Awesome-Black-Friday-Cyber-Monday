@@ -303,8 +303,8 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
-| 🧠 | [(New Row Template) TypingMind](https://www.typingmind.com/?utm_source=tonybf) | The best chat frontend for LLMs: ChatGPT, Claude, Gemini. Use with your API key, no subscription. Multi-model chat, threads, MCPs, Artifact, Projects, Vision, Canvas, AI agents builder, DALL-E, Plugins, etc. | 60% OFF Lifetime Premium Plan **BLACKFRIDAY2025** |
-
+| ▧ | [Best Dart Course](https://www.hungrimind.com/learn/dart?utm_source=tonybf) | The first interactive Dart course where you code and test directly in your browser, with guidance every step of the way. | Up to 60% OFF automatically applied at checkout |
+| ▧ | [Best Flutter Course](https://www.hungrimind.com/learn/flutter?utm_source=tonybf) | The first interactive Flutter course where you code, test, and build apps directly in your browser, with guidance every step of the way. | Up to 60% OFF automatically applied at checkout |
 
 [⬆️ Go to Top](#table-of-contents)
 
